@@ -11,7 +11,7 @@ body {
     font-family: 'Red Hat Display', serif;
 
     /* background */
-    background: url(https://bingr001.github.io/order-summary-component/images/pattern-background-desktop.svg);
+    background: url("https://bingr001.github.io/order-summary-component/images/pattern-background-desktop.svg");
     background-size:contain;
     background-repeat: no-repeat;
     background-position:top;
