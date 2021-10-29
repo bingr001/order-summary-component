@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/bingr001/order-summary-component)
-- Live Site URL: [Live Site](https://bingr001.github.io/order-summary-component/)
+- Solution URL: [Solution](https://github.com/brentjayingram/order-summary-component)
+- Live Site URL: [Live Site](https://brentjayingram.github.io/order-summary-component/)
 
 ## My process
 
@@ -51,6 +51,6 @@ I hadn't used much svg images before, so getting to use them here was a treat.Es
 
 ## Author
 
-- Website - [Brent Ingram](https://www.brentjingram.com)
+- Website - [Brent Ingram](https://www.brentjayingram.com)
 - Twitter - [@brentjayingram](https://www.twitter.com/brentjayingram)
 
